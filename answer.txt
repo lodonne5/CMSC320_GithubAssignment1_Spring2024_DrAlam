@@ -1,0 +1,5 @@
+Why are you interested in taking CMSC320?
+
+I am interested in taking this course because so far in my computer science education, I have not had to worry about collecting information for my projects. This course involves accessing databases and using the scientific method to assist in making decisions. I believe that by being exposed to the Python data science modules such as Pandas, I will be able to have a better understanding of how to let the data science tools that I have access to help me make decisions.
+
+- Liam O'Donnell
